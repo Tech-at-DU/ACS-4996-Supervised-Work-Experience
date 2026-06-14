@@ -1,4 +1,4 @@
-# Supervised Work Experience (SWE 2.1)
+# ACS 4996 Supervised Work Experience (SWE)
 
 ## Course Description
 
@@ -15,8 +15,6 @@ Students must fill out the assignments listed in this syllabus, and execute thei
 **Course Delivery**: asynchronous | 12 weeks
 
 **Course Credits**: 10 units | 75 Seat Hours | 480 Total Hours + work completion
-
-
 
 ## Learning Outcomes
 
