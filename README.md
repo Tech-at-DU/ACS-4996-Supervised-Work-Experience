@@ -2,13 +2,13 @@
 
 ## Course Description
 
-The Supervised Work Experience (SWE) is a paid or unpaid internship or full time work that happens either between or at the end of a student’s years in the Make School program. During Make School’s integrated program, students master the theory and practices necessary to succeed in making contributions as software engineers to the world of technology. The Make School program also prepares students to search for, apply, interview, and negotiate a job offer. 
+The Supervised Work Experience (SWE) is a capstone course taken near the end of the program, built around a paid or unpaid internship or full-time job. The internship itself makes up the majority of the coursework — the SWE's role is to structure reflection on that experience, so students develop a clear understanding of how to transition from student to working professional.
 
-Students may begin registering for a SWE once they have secured a full-time internship or full time job that lasts at least 12 weeks.  Request to register by filling out this form: [make.sc/swe-registration-form](http://make.sc/swe-registration-form)
+Students may begin registering for a SWE once they have secured a full-time internship or full-time job that lasts at least 12 weeks. Request to register by filling out this form: **[TODO: replace with current SWE registration form URL — old make.sc link is dead]**
 
-Students work towards their SWE with their Make School coach, and once accepted into their position, continue to work with their coach (the same coach assigned to the academic school year). Students are in constant contact with their coach, and every two weeks, they are required to send a written update on their learning and learning plan. Students are managed and supervised at their workplace according to the policies of their employer. 
+Students work towards their SWE with their assigned coach, and once accepted into their position, continue to work with that same coach throughout the internship. Students are in regular contact with their coach, and on a recurring basis are required to send a written reflection on what they're learning, both technically and about working life. Students are managed and supervised at their workplace according to the policies of their employer.
 
-Students must fill out the assignments listed in this syllabus, and execute their plan in order to get 10 college credit for this SWE.
+Students must complete the assignments listed in this syllabus, and execute their plan, in order to earn 10 college credits for this SWE.
 
 ## Course Specifics
 
@@ -23,8 +23,9 @@ Students must fill out the assignments listed in this syllabus, and execute thei
 By the end of this internship/job, you will be able to …
 
 1. Integrate and contribute to a team at a professional engineering firm
-1. Reflect on work experience to mitigate problems and make the most of opportunities
-1. Continuously improve personal work process and abilities to contribute
+1. Reflect critically on your work experience to identify what's working, address problems, and make the most of opportunities as they arise
+1. Continuously improve your personal work process and ability to contribute
+1. Navigate the transition from student to working professional, applying lessons learned to your next role
 
 ### Student selected competencies
 
@@ -43,7 +44,7 @@ By the end of this internship, I will be able to …
 
 | Internship/Job Phase |          Timeframe          |      Assignments    |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  **Pre-Internship/Job** |  Before your internship/job begins  | Schedule a Monthly Check-In Call With Your Make School Coach | Resume & LinkedIn update |
+|  **Pre-Internship/Job** |  Before your internship/job begins  | Schedule a Monthly Check-In Call With Your Coach | Resume & LinkedIn update |
 |     |      |   Reflection |
 |     |      |   Create Weekly Plan |
 |  **During Internship/Job** |  1st Week  | Written Reflection Week 1 + Resume & LinkedIn update|
@@ -55,24 +56,22 @@ By the end of this internship, I will be able to …
 |   |  1 week after Internship/Job ends    | Final Reflection Blog Post | Submit additional project and associated reflection (only required if your internship is less than 12 weeks
 |   |    
 
-**Students in SWE are working offsite and not expected to abide by the Make School attendance policy.**  
+**Students in SWE are working offsite and not expected to abide by the Dominican University attendance policy.**  
 ## Assignments
 
 ### Submitting Assignments
 
-**[Submit Assignments through Gradescope here](https://www.gradescope.com/courses/242589)**
+**[Submit Assignments through this Google Form](https://forms.gle/jTixVTZo2sGEfhoX6)**
 
-We will be using [Gradescope](gradescope.com), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.*
+All assigned work is submitted through a single Google Form, which logs each submission to a shared tracking spreadsheet. Use your Dominican University email so submissions can be matched to your record.
 
-As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
-
-Your Gradescope login is your Make School email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
+Your instructor reviews submissions on the tracking spreadsheet and returns feedback and grades by email. If you think a grade was recorded in error, contact your instructor directly to request a correction.
 
 ### Assignment List
 
 #### DUE BEFORE YOUR INTERNSHIP/JOB BEGINS:
 
-- **Schedule Monthly Checkin:** Schedule a monthly check-in call with your Make School coach
+- **Schedule Monthly Checkin:** Schedule a monthly check-in call with your coach
 - **[Reflection](./Assignments/reflection.md)**
 - **[Create Weekly Plan](./Assignments/weekly-plan.md)** - email it to the SWE Instructor - and your coach for review
 
@@ -82,7 +81,7 @@ Your Gradescope login is your Make School email, and your password can be change
 
 #### DUE THE 1ST WEEK OF YOUR INTERNSHIP/JOB
 
-- **Resume & LinkedIn update:** Update your Linkedin & Resume on the Make School portfolio page with your new work experience.
+- **Resume & LinkedIn update:** Update your Linkedin & Resume on the Dominican portfolio page with your new work experience.
 
 #### DUE DURING YOUR INTERNSHIP/JOB
 
@@ -104,16 +103,11 @@ In order to pass this course, students must successfully complete:
 
 Any additional resources you may need (online books, etc.) can be found here. You can also find additional resources through the library linked below:
 
-- [make.sc/library](http://make.sc/library)
+- [Archbishop Alemany Library](https://www.dominican.edu/academics/archbishop-alemany-library)
 
-## Make School Course Policies
+## Dominican University Course Policies
 
-- [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing Make School, all courses are designed around these outcomes.
-- [Grading System](https://make.sc/grading-system) - How grading is done at Make School
-- [Code of Conduct, Equity, and Inclusion](https://make.sc/code-of-conduct) - Learn about Diversity and Inclusion at Make School
-- [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct
-- [Attendance Policy](https://make.sc/attendance-policy) - What we expect from you in terms of attendance for all classes at Make School
-- [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
-- [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
-- [Online Learning Tutorial](https://make.sc/online-learning-tutorial) - How to succeed in online learning at Make School
-- [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
+- [Applied Computer Science (ACS) Program Catalog](https://dominican.smartcatalogiq.com/en/2026-2027/academic-catalog/undergraduate-degree-programs/applied-computer-science-bs/) - Program learning outcomes and course descriptions; all ACS courses are designed around these outcomes.
+- [Student Handbook and Code of Conduct](https://docs.google.com/document/d/1LC4i1U3rQzTjzK7hRMO2ari96v0u3jn26E-SityeQ6c/edit#heading=h.cv06ozs4nc7g) - Grading, academic honesty, attendance, course credit, and conduct policies for all Dominican University students.
+- [Accessibility and Disability Services](https://www.dominican.edu/campus-life/student-services-and-resources/accessibility-and-disability-services) - Services and accommodations we provide for students.
+- **[TODO: replace with current Online Learning Tutorial link if the university offers one]**
