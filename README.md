@@ -44,7 +44,7 @@ By the end of this internship, I will be able to …
 
 | Internship/Job Phase |          Timeframe          |      Assignments    |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  **Pre-Internship/Job** |  Before your internship/job begins  | Schedule a Monthly Check-In Call With Your Coach | Resume & LinkedIn update |
+|  **Pre-Internship/Job** |  Before your internship/job begins  | Schedule a Monthly Check-In Call With Your Coach |
 |     |      |   Reflection |
 |     |      |   Create Weekly Plan |
 |  **During Internship/Job** |  1st Week  | Written Reflection Week 1 + Resume & LinkedIn update|
@@ -53,8 +53,7 @@ By the end of this internship, I will be able to …
 |  |  7th week                        | Written Reflection Week 7 |
 |  |  9th week                        | Written Reflection Week 9 |
 |  **Post-Internship/Job** |  The last day of the internship/job    | Closing Items |
-|   |  1 week after Internship/Job ends    | Final Reflection Blog Post | Submit additional project and associated reflection (only required if your internship is less than 12 weeks
-|   |    
+|   |  1 week after Internship/Job ends    | Final Reflection Blog Post + Submit additional project and associated reflection (only required if your internship is less than 12 weeks) |
 
 **Students in SWE are working offsite and not expected to abide by the Dominican University attendance policy.**  
 ## Assignments
@@ -77,7 +76,7 @@ Your instructor reviews submissions on the tracking spreadsheet and returns feed
 
 ##### if your internship is less than 12 weeks:
 
-**Submit an Additional Project Proposal [via this form](https://forms.gle/5CFYdf3mgAGnKVvH7)**
+**Submit an Additional Project Proposal [via this form](https://forms.gle/jTixVTZo2sGEfhoX6)**
 
 #### DUE THE 1ST WEEK OF YOUR INTERNSHIP/JOB
 
@@ -85,7 +84,7 @@ Your instructor reviews submissions on the tracking spreadsheet and returns feed
 
 #### DUE DURING YOUR INTERNSHIP/JOB
 
-- **[Written Reflections](./Assignments/weekly_reflections.md):** Done twice a month for the first two months of your internship/job, and once during the third month**
+- **[Written Reflections](./Assignments/weekly_reflections.md):** Done twice a month for the first two months of your internship/job, and once during the third month
 
 #### DUE AT THE END OF YOUR INTERNSHIP/JOB
 
